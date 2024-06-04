@@ -1,16 +1,15 @@
-## Hi there 👋
+##seja bem vindo ao meu perfil🌞
 
-<!--
-**luisG2210/luisG2210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é luisG2210
 
-Here are some ideas to get you started:
+- eu adoro tomar uma cerveja 🍺.
+- eu adoro a escola 🏫.
+- ultilizo este espaço para organização e compartilhamento dos meus projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você pode entrar em contato comigo 📧
+delibertoluis396@gmail.com  
+@luisdeliberto
+
+
+
+![](https://media1.tenor.com/m/gR_QMTlx0NkAAAAd/funny-dogs-cute.gif)
